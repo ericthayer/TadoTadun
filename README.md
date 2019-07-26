@@ -1,7 +1,7 @@
 # TadoTadun
 __forked from [https://github.com/BrooksPatton/learning_project_todo](https://github.com/BrooksPatton/learning_project_todo)__
 
-This is a scrimmage project for checking understanding of building full-stack applications. I had to brand the project becasue that's how like to roll.
+This is a scrimmage project for checking understanding of building full-stack applications. I had to brand the project because that's how I like to roll.
 
 ## How to use this repository
 
